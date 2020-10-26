@@ -30,5 +30,5 @@ syntax keyword Label CBS ST SM THRSEV PO THNS ULAT
 
 syntax keyword Keyword SEL BGC LOAD
 
-let b:current_syntax = "midasMGT"
+let b:current_syntax = "mgtcommand"
 
